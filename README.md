@@ -1,4 +1,5 @@
-# 6-Servo Motor Control System". This project involves controlling six servo motors using an Arduino. The motors will perform a sweep motion for two seconds and then hold at a 90-degree position.
+# 6-Servo Motor Control System". 
+This project involves controlling six servo motors using an Arduino. The motors will perform a sweep motion for two seconds and then hold at a 90-degree position.
 
 1. Connecting the Servos:
 First, I connected 6 servos to the Arduino using a breadboard. Each servo was connected to a separate pin on the Arduino ( 2, 3, 4, 5, 6, 7).  
